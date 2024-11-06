@@ -1,0 +1,94 @@
+
+body  {
+        margin: 50px;
+        color: #593a1e;
+        font-family: "Open Sans";
+    }
+
+h1 {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 48px;
+    margin-left: 10px;
+}
+
+h2  { 
+    margin-left: 10px;
+    font-family: "Montserrat";
+    font-size: 24px;
+}
+
+p  { 
+    margin-left: 10px;
+    font-family: "Open Sans";
+    font-size: 16px;
+}
+
+.container  {
+    text-align: justify;
+    border: 1px solid #bf9d73;
+    }
+
+.staal  {
+    display: inline-block;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+      }
+
+.fontfamily {
+    display: inline-block;
+    width: 600px;
+    height: 150px;
+    text-align: left;
+    margin: 10px 10px 10px 0;
+}
+
+.bold  {
+    font-weight: bold;
+}
+
+.italic  {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+#poppins  {
+    font-family: "Poppins";
+}
+
+#montserrat  {
+    font-family: "Montserrat";
+}
+
+#opensans  {
+   font-family: "Open Sans";
+}
+
+#schelpwit {
+    background-color: #f2f2f2;
+}
+
+#zand  {
+    background-color: #bf9d73;
+}
+
+#donkerbruin  {
+    background-color: #593a1e;
+    color: #f2f2f2;
+}
+
+#hazelnoot  {
+    background-color: #8c5f37;
+    color: #f2f2f2; 
+}
+
+#taupe  {
+    background-color: #8c8177;
+    color: #f2f2f2;
+}
+
